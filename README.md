@@ -17,4 +17,4 @@ This mod would not be possible without:
 - [ED8 Model Toolset](https://github.com/eArmada8/ed8pkg2gltf) by eArmada8
 - [Kiseki Modding Server](https://discord.gg/wYkWS33NQt) for helping me when I got stuck.
 
-Enjoy!
+Have fun!
