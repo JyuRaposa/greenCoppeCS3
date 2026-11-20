@@ -4,7 +4,8 @@ So you already got Coppe green in CS2 but still want it the same way in CS3? Not
 ![Green Coppe](GreenCoppeCS3.png)
 
 ## Installation Instructions
-- SenPatcher: You can just simply copy the p3a files (either one or both can be installed at the same time, refer to Notes for more information), and paste it to the mod folder in your Trails of Cold Steel III directory (usually in C:\Program Files (x86)\Steam\steamapps\common\The Legend of Heroes Trails of Cold Steel III\mods).
+- SenPatcher: You can just simply copy the p3a files, and paste it to the mod folder in your Trails of Cold Steel III directory (usually in C:\Program Files (x86)\Steam\steamapps\common\The Legend of Heroes Trails of Cold Steel III\mods).
+  - Either one of the p3a files or both can be installed at the same time. Refer to Notes for more information.
 - Non-SenPatcher: Copy the C_CHR958_C08.pkg file in the edited folder, and paste it in C:\Program Files (x86)\Steam\steamapps\common\The Legend of Heroes Trails of Cold Steel III\data\asset\D3D11_us.
   - (OPTIONAL) If you want the text updated, also copy c0200.dat in the edited folder, and past it in C:\Program Files (x86)\Steam\steamapps\common\The Legend of Heroes Trails of Cold Steel III\data\scripts\scena\dat_en, and overwrite the file.
 
