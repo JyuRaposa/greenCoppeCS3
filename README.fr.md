@@ -1,5 +1,5 @@
 # Koppe Vert CS3
-Alors vous avez déjà fait Koppe vert dans CS2 mais vous voulez toujours obtenir le même façon dans CS3? Pas de problème ! Ce mod devrait transformer notre chat favori au vert comme avant ! Maintenant, avec le dialogue modifié où les personnages font référence à Koppe comme un chat vert !
+Alors vous avez déjà fait Koppe vert dans CS2 mais vous voulez toujours obtenir le même façon dans CS3? Pas de problème ! Ce mod devrait transformer notre minou favori au vert comme avant ! Maintenant, avec le dialogue modifié où les personnages font référence à Koppe comme un chat vert !
 
 ![Koppe Vert](KoppeVertCS3.png)
 
